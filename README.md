@@ -2,6 +2,10 @@
 
 Sistema de Eventos encomendado pela Morena.
 
+[![Build Status](https://travis-ci.org/lidymonteirowm/wttd.svg?branch=master)](https://travis-ci.org/lidymonteirowm/wttd)
+[![Code Health](https://landscape.io/github/lidymonteirowm/wttd/master/landscape.svg?style=flat)](https://landscape.io/github/lidymonteirowm/wttd/master)
+
+
 ## Como desenvolver?
 
 1. Clone o repositório.
